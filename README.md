@@ -58,10 +58,10 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-For any questions or feedback, please reach out to us at [contact@dictationapp.com](mailto:contact@dictationapp.com).
+For any questions or feedback, please reach out to us at [lakescorporation@gmail.com](mailto:lakescorporation@gmail.com).
 
 ---
 
 Happy note-taking with Dictation! 🎉📝
 
-![Dictation](https://play.google.com/store/apps/details?id=appinventor.ai_techapapfap_app.Speechtotext&hl=es_GT&gl=US)
+![Dictation](logo_1024_alpha.png)
