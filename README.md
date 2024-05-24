@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_1024_alpha.png" alt="Dictation">
+</p>
+
 # 🎙️ Dictation
 
 Dictation is a versatile note-taking app built with Flutter that allows you to write notes, transcribe your voice, share the text, and save/load notes as txt files. Available on the Play Store! 🎉
@@ -64,4 +68,3 @@ For any questions or feedback, please reach out to us at [lakescorporation@gmail
 
 Happy note-taking with Dictation! 🎉📝
 
-![Dictation](logo_1024_alpha.png)
